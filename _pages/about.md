@@ -26,15 +26,18 @@ Please feel free to contact me via 202364870412@mail.scut.edu.cn
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉 I joined the **FutureX Summer School** at the Wuxi Campus of **Southeast University (SEU)**!  
+- *2025.06*: &nbsp;🎉 My project, “MindMelody: An EEG-Based Personalized Music Generation and Mental Health Intervention System,” was approved as a **National Undergraduate Innovation and Entrepreneurship Training Program** project!  
+- *2025.04*: &nbsp;🎉 I joined the [**Human-Centered Computing Lab (HCC Lab)**](https://scuthcc.top/) as a research intern, under the supervision of [**Prof. Zhanpeng Jin**](https://www2.scut.edu.cn/ft/2021/1127/c45109a452822/page.htm)!  
+- *2024.07*: &nbsp;🎉 I went to the **National University of Singapore (NUS)** and was honored as an **Outstanding Student** in the summer program!  
+- *2023.09*: &nbsp;🎉 I was admitted to **South China University of Technology (SCUT)**!
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[EmoMM: Benchmarking and Steering MLLM for Multimodal Emotion Recognition under Conflict and Missingness](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
@@ -57,7 +60,6 @@ Please feel free to contact me via 202364870412@mail.scut.edu.cn
 - *2024.08* **Third Prize of National University Embedded Chip and System Design Competition**, Chip Application Track, Southern Region.
 - *2024.05* **Outstanding Communist Youth League Member**, South China University of Technology.
 - *2024.04* **Third Prize of MathorCup Mathematical Application Challenge**, Undergraduate Group, Divisional Competition.
-- *2024.02* **Successful Participant of Interdisciplinary Contest in Modeling**.
 - *2023.12* **Second Prize of Baidu Brain Cup Student Science and Technology Competition**, School of Future Technology.
 
 # 📖 Educations
