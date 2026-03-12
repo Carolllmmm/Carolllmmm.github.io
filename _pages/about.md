@@ -34,20 +34,31 @@ Please feel free to contact me via 202364870412@mail.scut.edu.cn
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/EmoMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EmoMM: Benchmarking and Steering MLLM for Multimodal Emotion Recognition under Conflict and Missingness](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[EmoMM: Benchmarking and Steering MLLM for Multimodal Emotion Recognition under Conflict and Missingness]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yueru Sun, **Yimeng Zhang**, Haoyu Gu, Nuo Chen, Dong She, Xianrong Yao, Yang Gao, Zhanpeng Jin*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026</div><img src='images/eva.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EVANet：Cross-Modular Contrastive Learning of EEG for Cross-Subject Motor Decoding]
+
+Ziyuan Li, Yueru Sun, **Yimeng Zhang**, Bin Hu*
+
+- EVANet leverages action videos as semantic anchors and combines cross-modal alignment with contrastive learning to suppress subject-specific and non-stationary EEG noise, thereby significantly improving generalization in cross-subject motor decoding.
+</div>
+</div>
+
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2025.11* **Second Prize of National College Students' Mathematics Competition**, Guangdong Division.
