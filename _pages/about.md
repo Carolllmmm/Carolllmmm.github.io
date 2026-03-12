@@ -34,7 +34,7 @@ Please feel free to contact me via 202364870412@mail.scut.edu.cn
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026(Under Review)</div><img src='images/EmoMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/EmoMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 EmoMM: Benchmarking and Steering MLLM for Multimodal Emotion Recognition under Conflict and Missingness
@@ -46,7 +46,7 @@ Yueru Sun, **Yimeng Zhang**, Haoyu Gu, Nuo Chen, Dong She, Xianrong Yao, Yang Ga
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026(Under Review)</div><img src='images/eva.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026 (Under Review)</div><img src='images/eva.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 EVANet：Cross-Modular Contrastive Learning of EEG for Cross-Subject Motor Decoding
