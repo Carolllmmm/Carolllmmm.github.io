@@ -41,7 +41,7 @@ EmoMM: Benchmarking and Steering MLLM for Multimodal Emotion Recognition under C
 
 Yueru Sun, **Yimeng Zhang**, Haoyu Gu, Nuo Chen, Dong She, Xianrong Yao, Yang Gao, Zhanpeng Jin*
 
-- To address the vulnerability of multimodal emotion recognition to modality conflict and missing inputs, We build a comprehensive benchmark, reveals decision biases in MLLMs caused by redundant video evidence and modality preference, and proposes a lightweight attention-steering mechanism.
+- To address the vulnerability of MER under Conflict and Missingness, We build a comprehensive benchmark, reveals decision biases in MLLM caused by redundant video evidence and modality preference, and proposes a lightweight attention-steering mechanism.
 </div>
 </div>
 
@@ -49,11 +49,11 @@ Yueru Sun, **Yimeng Zhang**, Haoyu Gu, Nuo Chen, Dong She, Xianrong Yao, Yang Ga
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2026(Under Review)</div><img src='images/eva.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EVANet：Cross-Modular Contrastive Learning of EEG for Cross-Subject Motor Decoding]
+EVANet：Cross-Modular Contrastive Learning of EEG for Cross-Subject Motor Decoding
 
 Ziyuan Li, Yueru Sun, **Yimeng Zhang**, Bin Hu*
 
-- We purpose EVANet,  which leverages action videos as semantic anchors and combines cross-modal alignment with contrastive learning to suppress subject-specific and non-stationary EEG noise, thereby significantly improving generalization in cross-subject motor decoding.
+- We purpose EVANet, a method that leverages action videos as semantic anchors and combines cross-modal alignment with contrastive learning to suppress subject-specific and non-stationary EEG noise, thereby significantly improving generalization in cross-subject motor decoding.
 </div>
 </div>
 
