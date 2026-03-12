@@ -41,7 +41,7 @@ Please feel free to contact me via 202364870412@mail.scut.edu.cn
 
 Yueru Sun, **Yimeng Zhang**, Haoyu Gu, Nuo Chen, Dong She, Xianrong Yao, Yang Gao, Zhanpeng Jin*
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- To address the vulnerability of multimodal emotion recognition to modality conflict and missing inputs, this study builds a comprehensive multi-scenario benchmark, reveals decision biases in MLLMs caused by redundant video evidence and modality preference, and proposes a lightweight attention-steering mechanism to mitigate these biases and improve robustness.
 </div>
 </div>
 
@@ -56,9 +56,6 @@ Ziyuan Li, Yueru Sun, **Yimeng Zhang**, Bin Hu*
 - EVANet leverages action videos as semantic anchors and combines cross-modal alignment with contrastive learning to suppress subject-specific and non-stationary EEG noise, thereby significantly improving generalization in cross-subject motor decoding.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2025.11* **Second Prize of National College Students' Mathematics Competition**, Guangdong Division.
