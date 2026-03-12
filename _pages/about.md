@@ -71,9 +71,9 @@ Ziyuan Li, Yueru Sun, **Yimeng Zhang**, Bin Hu*
 - *2023.12* **Second Prize of Baidu Brain Cup Student Science and Technology Competition**, School of Future Technology.
 
 # 📖 Educations
-- *2023.09 - now*, South China University of Technology, Undergraduate. 
-- *2020.09 - 2023.06*, High School Affiliated to Nanjing Normal University Jiangning Campus, high school student. 
+- *2023.09 - now*, Undergraduate, South China University of Technology, Guangzhou. 
+- *2020.09 - 2023.06*, High School Affiliated to Nanjing Normal University Jiangning Campus, Nanjing. 
 
 # 💻 Internships
 - *2025.04 - persent*, [**Human-Centered Computing Lab (HCC Lab)**](https://scuthcc.top/), Guangzhou.
-- *2023.12 - 2024.02*, [**Purple Mountain Laboratories**]([https://github.com/](https://www.pmlabs.com.cn/)), Nanjing.
+- *2023.12 - 2024.02*, [**Purple Mountain Laboratories**](https://www.pmlabs.com.cn/), Nanjing.
