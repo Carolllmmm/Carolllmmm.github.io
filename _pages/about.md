@@ -42,9 +42,20 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11* **Second Prize of National College Students' Mathematics Competition**, Guangdong Division.
+- *2025.06* **Taihu Innovation Award for Future Technology (Study Tour Innovation Award)**, granted by the Wuxi Government.
+- *2025.05* **Outstanding Communist Youth League Cadre**, South China University of Technology.
+- *2025.03* **Third Prize of "Sunwoda" Cup Undergraduate Extracurricular Academic Science and Technology Competition**.
+- *2024.12* **Second-class Excellence Scholarship**, 2023-2024 Academic Year.
+- *2024.12* **Second-class Scholarship**, South China University of Technology, 2023-2024 Academic Year.
+- *2024.12* **Third Prize of China Undergraduate Mathematical Contest in Modeling**, Guangdong Division.
+- *2024.08* **Third Prize of National University Embedded Chip and System Design Competition**, Chip Application Track, Southern Region.
+- *2024.05* **Outstanding Communist Youth League Member**, South China University of Technology.
+- *2024.04* **Third Prize of MathorCup Mathematical Application Challenge**, Undergraduate Group, Divisional Competition.
+- *2024.02* **Successful Participant of Interdisciplinary Contest in Modeling**.
+- *2023.12* **Second Prize of Baidu Brain Cup Student Science and Technology Competition for Future Technology**.
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
