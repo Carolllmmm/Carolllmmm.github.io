@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-#  About me
+# 😊 About me
 **Welcome to my website!**
 
-I am **Yimeng Zhang** (张忆萌), an undergraduate student at the School of Future Technology, South China University of Technology (SCUT), majoring in Artificial Intelligence. My research interests lie in the fields of LLM, Affective Computing, and HCI.
+I am **Yimeng Zhang** (张忆萌), an undergraduate student at the School of Future Technology, South China University of Technology (SCUT), majoring in Artificial Intelligence. My research interests lie in the fields of LLM, Affective Computing, and HCI. 
+
+Everyone is welcome to discuss academic or everyday matters with me. Please feel free to contact me via email at 202364870412@mail.scut.edu.cn
 
 
 # 🔥 News
