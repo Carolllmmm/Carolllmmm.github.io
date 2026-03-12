@@ -55,11 +55,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.05* **Outstanding Communist Youth League Member**, South China University of Technology.
 - *2024.04* **Third Prize of MathorCup Mathematical Application Challenge**, Undergraduate Group, Divisional Competition.
 - *2024.02* **Successful Participant of Interdisciplinary Contest in Modeling**.
-- *2023.12* **Second Prize of Baidu Brain Cup Student Science and Technology Competition for Future Technology**.
+- *2023.12* **Second Prize of Baidu Brain Cup Student Science and Technology Competition**, School of Future Technology.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, South China University of Technology, Undergraduate. 
+- *2020.09 - 2023.06*, High School Affiliated to Nanjing Normal University Jiangning Campus, high school student. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
