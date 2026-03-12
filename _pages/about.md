@@ -41,7 +41,7 @@ EmoMM: Benchmarking and Steering MLLM for Multimodal Emotion Recognition under C
 
 Yueru Sun, **Yimeng Zhang**, Haoyu Gu, Nuo Chen, Dong She, Xianrong Yao, Yang Gao, Zhanpeng Jin*
 
-- To address the vulnerability of MER under Conflict and Missingness, We build a comprehensive benchmark, reveals decision biases in MLLM caused by redundant video evidence and modality preference, and proposes a lightweight attention-steering mechanism.
+- To address the vulnerability of MER under Conflict and Missingness, we build a comprehensive benchmark, reveals decision biases in MLLM caused by redundant video evidence and modality preference, and proposes a lightweight attention-steering mechanism.
 </div>
 </div>
 
@@ -74,9 +74,6 @@ Ziyuan Li, Yueru Sun, **Yimeng Zhang**, Bin Hu*
 - *2023.09 - now*, South China University of Technology, Undergraduate. 
 - *2020.09 - 2023.06*, High School Affiliated to Nanjing Normal University Jiangning Campus, high school student. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.04 - persent*, [**Human-Centered Computing Lab (HCC Lab)**](https://scuthcc.top/), Guangzhou.
+- *2023.12 - 2024.02*, [**Purple Mountain Laboratories**]([https://github.com/](https://www.pmlabs.com.cn/)), Nanjing.
